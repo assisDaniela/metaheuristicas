@@ -1,0 +1,1 @@
+Repositório para trabalhos desenvolvidos para a disciplina optativa de INF284-Metaheurísticas ofertada pelo Departamento de Informática da Universidade Federal de Viçosa
