@@ -1,0 +1,17 @@
+burma14 zero
+burma14 cedo
+burma14 mix
+berlin52 zero
+berlin52 cedo
+berlin52 cedo2
+berlin52 mix
+berlin52 mix2
+st70 zero
+st70 cedo
+st70 cedo2
+st70 cedo3
+st70 mix
+st70 mix2
+gil262 -1
+gr666 -1
+dsj1000 -1
